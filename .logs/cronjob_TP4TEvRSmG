@@ -1,0 +1,158 @@
+Server Time: Mon, 09 Oct 2023 22:01:02 -0300
+
+
+Execute scheduled task: Limpar sessões antigas (core\task\session_cleanup_task)
+... started 22:01:02. Current memory use 20.9 Mb.
+... used 7 dbqueries
+... used 0.013686895370483 seconds
+Scheduled task complete: Limpar sessões antigas (core\task\session_cleanup_task)
+Execute scheduled task: Enviar novas senhas de usuários (core\task\send_new_user_passwords_task)
+... started 22:01:02. Current memory use 22.2 Mb.
+... used 1 dbqueries
+... used 0.00050616264343262 seconds
+Scheduled task complete: Enviar novas senhas de usuários (core\task\send_new_user_passwords_task)
+Execute scheduled task: Enviar avisos de falha de autenticação (core\task\send_failed_login_notifications_task)
+... started 22:01:02. Current memory use 22.3 Mb.
+... used 0 dbqueries
+... used 4.887580871582E-5 seconds
+Scheduled task complete: Enviar avisos de falha de autenticação (core\task\send_failed_login_notifications_task)
+Execute scheduled task: Processamento do cron antigo para plugins (core\task\legacy_plugin_cron_task)
+... started 22:01:02. Current memory use 22.3 Mb.
+Running auth crons if required...
+Running enrol crons if required...
+Starting activity modules
+Finished activity modules
+Starting blocks
+Finished blocks
+Starting admin reports
+Finished admin reports
+Starting course reports
+Finished course reports
+Starting gradebook plugins
+Finished gradebook plugins
+... used 2 dbqueries
+... used 0.033068895339966 seconds
+Scheduled task complete: Processamento do cron antigo para plugins (core\task\legacy_plugin_cron_task)
+Execute scheduled task: Processamento em segundo plano para livro de notas (core\task\grade_cron_task)
+... started 22:01:02. Current memory use 26.0 Mb.
+... used 2 dbqueries
+... used 0.0013771057128906 seconds
+Scheduled task complete: Processamento em segundo plano para livro de notas (core\task\grade_cron_task)
+Execute scheduled task: Cálculo regular da data de conclusão (core\task\completion_regular_task)
+... started 22:01:02. Current memory use 26.1 Mb.
+Aggregating completions
+... used 6 dbqueries
+... used 0.010306119918823 seconds
+Scheduled task complete: Cálculo regular da data de conclusão (core\task\completion_regular_task)
+Execute scheduled task: Processamento em segundo plano para plugins de portfolio (core\task\portfolio_cron_task)
+... started 22:01:02. Current memory use 26.6 Mb.
+... used 0 dbqueries
+... used 4.5061111450195E-5 seconds
+Scheduled task complete: Processamento em segundo plano para plugins de portfolio (core\task\portfolio_cron_task)
+Execute scheduled task: Processamento em segundo plano para antigo agendador em plugins de plágio (core\task\plagiarism_cron_task)
+... started 22:01:02. Current memory use 26.6 Mb.
+... used 0 dbqueries
+... used 7.2002410888672E-5 seconds
+Scheduled task complete: Processamento em segundo plano para antigo agendador em plugins de plágio (core\task\plagiarism_cron_task)
+Execute scheduled task: Enviar notificações de calendário (core\task\calendar_cron_task)
+... started 22:01:02. Current memory use 27.1 Mb.
+... used 1 dbqueries
+... used 0.0037209987640381 seconds
+Scheduled task complete: Enviar notificações de calendário (core\task\calendar_cron_task)
+Execute scheduled task: Sincronize blogs externos (core\task\blog_cron_task)
+... started 22:01:02. Current memory use 27.5 Mb.
+... used 2 dbqueries
+... used 0.0033690929412842 seconds
+Scheduled task complete: Sincronize blogs externos (core\task\blog_cron_task)
+Execute scheduled task: Processamento em segundo plano para limpeza de visualizações de questão (core\task\question_preview_cleanup_task)
+... started 22:01:02. Current memory use 27.7 Mb.
+
+  Cleaning up old question previews...done.
+... used 2 dbqueries
+... used 0.014986038208008 seconds
+Scheduled task complete: Processamento em segundo plano para limpeza de visualizações de questão (core\task\question_preview_cleanup_task)
+Execute scheduled task: Processamento em segundo plano para limpar o cache de estatísticas de questão (core\task\question_stats_cleanup_task)
+... started 22:01:02. Current memory use 29.5 Mb.
+
+  Cleaning up old question statistics cache records...done.
+... used 4 dbqueries
+... used 0.0010159015655518 seconds
+Scheduled task complete: Processamento em segundo plano para limpar o cache de estatísticas de questão (core\task\question_stats_cleanup_task)
+Execute scheduled task: Send report schedules (core_reportbuilder\task\send_schedules)
+... started 22:01:02. Current memory use 29.5 Mb.
+... used 1 dbqueries
+... used 0.0021941661834717 seconds
+Scheduled task complete: Send report schedules (core_reportbuilder\task\send_schedules)
+Execute scheduled task: Processamento em segundo plano para o módulo de tarefa (mod_assign\task\cron_task)
+... started 22:01:02. Current memory use 29.8 Mb.
+... used 3 dbqueries
+... used 0.029340028762817 seconds
+Scheduled task complete: Processamento em segundo plano para o módulo de tarefa (mod_assign\task\cron_task)
+Execute scheduled task: Mailings  do Fórum e trabalhos de manutenção (mod_forum\task\cron_task)
+... started 22:01:02. Current memory use 33.2 Mb.
+Removing old digest records from 7 days ago.
+Removed all old digest records.
+Fetching unmailed posts.
+  No posts found.
+... used 2 dbqueries
+... used 0.00068497657775879 seconds
+Scheduled task complete: Mailings  do Fórum e trabalhos de manutenção (mod_forum\task\cron_task)
+Execute scheduled task: Atualizando tentativas de teste atrasadas (mod_quiz\task\update_overdue_attempts)
+... started 22:01:02. Current memory use 34.6 Mb.
+  Looking for quiz overdue quiz attempts...
+  Considered 0 attempts in 0 quizzes.
+... used 1 dbqueries
+... used 0.0020339488983154 seconds
+Scheduled task complete: Atualizando tentativas de teste atrasadas (mod_quiz\task\update_overdue_attempts)
+Execute scheduled task: Legacy cron quiz reports (mod_quiz\task\legacy_quiz_reports_cron)
+... started 22:01:02. Current memory use 34.6 Mb.
+... used 0 dbqueries
+... used 0.00019097328186035 seconds
+Scheduled task complete: Legacy cron quiz reports (mod_quiz\task\legacy_quiz_reports_cron)
+Execute scheduled task: Legacy cron quiz access rules (mod_quiz\task\legacy_quiz_accessrules_cron)
+... started 22:01:02. Current memory use 34.7 Mb.
+... used 0 dbqueries
+... used 0.00017786026000977 seconds
+Scheduled task complete: Legacy cron quiz access rules (mod_quiz\task\legacy_quiz_accessrules_cron)
+Execute scheduled task: Processamento em segundo plano para o módulo laboratório de avaliação (mod_workshop\task\cron_task)
+... started 22:01:02. Current memory use 34.7 Mb.
+ processing workshop subplugins ...
+... used 1 dbqueries
+... used 0.00048494338989258 seconds
+Scheduled task complete: Processamento em segundo plano para o módulo laboratório de avaliação (mod_workshop\task\cron_task)
+Execute scheduled task: Alocação do laboratório de avaliação usando o cron legacy (mod_workshop\task\legacy_workshop_allocation_cron)
+... started 22:01:02. Current memory use 34.8 Mb.
+... used 0 dbqueries
+... used 0.00014376640319824 seconds
+Scheduled task complete: Alocação do laboratório de avaliação usando o cron legacy (mod_workshop\task\legacy_workshop_allocation_cron)
+Execute scheduled task: Captação de e-mails (tool_messageinbound\task\pickup_task)
+... started 22:01:02. Current memory use 34.2 Mb.
+Inbound Message not fully configured - exiting early.
+... used 0 dbqueries
+... used 0.0017068386077881 seconds
+Scheduled task complete: Captação de e-mails (tool_messageinbound\task\pickup_task)
+Execute scheduled task: Remove eventos do monitor de eventos (tool_monitor\task\clean_events)
+... started 22:01:02. Current memory use 34.4 Mb.
+... used 0 dbqueries
+... used 0.00014305114746094 seconds
+Scheduled task complete: Remove eventos do monitor de eventos (tool_monitor\task\clean_events)
+Execute scheduled task: Processamento em segundo plano para a alocação prevista (workshopallocation_scheduled\task\cron_task)
+... started 22:01:02. Current memory use 34.4 Mb.
+... no workshops awaiting scheduled allocation. ... used 1 dbqueries
+... used 0.00050210952758789 seconds
+Scheduled task complete: Processamento em segundo plano para a alocação prevista (workshopallocation_scheduled\task\cron_task)
+Execute scheduled task: Tarefa de manutenção do Moodleoverflow para enviar e-mails (mod_moodleoverflow\task\send_mails)
+... started 22:01:02. Current memory use 34.9 Mb.
+No review notifications to send.
+... used 4 dbqueries
+... used 0.01003098487854 seconds
+Scheduled task complete: Tarefa de manutenção do Moodleoverflow para enviar e-mails (mod_moodleoverflow\task\send_mails)
+Execute scheduled task: Tarefa de manutenção do Moodleoverflow para limpar registros de leitura antigos (mod_moodleoverflow\task\clean_readrecords)
+... started 22:01:02. Current memory use 35.6 Mb.
+... used 1 dbqueries
+... used 0.00097489356994629 seconds
+Scheduled task complete: Tarefa de manutenção do Moodleoverflow para limpar registros de leitura antigos (mod_moodleoverflow\task\clean_readrecords)
+Ran 0 adhoc tasks found at Mon, 09 Oct 2023 22:01:02 -0300
+Cron script completed correctly
+Cron completed at 22:01:02. Memory used 35.6 Mb.
+Execution took 0.556952 seconds

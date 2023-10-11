@@ -1,0 +1,124 @@
+[11-Mar-2023 12:40:43 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[27-Mar-2023 10:31:52 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[03-May-2023 09:55:59 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[05-May-2023 23:05:14 America/Sao_Paulo] [client 179.108.22.32]  https://redacaocomgamificacao.com.br  Invalid Login Token:  rafael_rcg  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+[31-May-2023 08:17:50 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[02-Jun-2023 09:09:17 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[17-Jun-2023 08:02:48 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[07-Jul-2023 08:48:32 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[16-Jul-2023 07:55:06 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[24-Jul-2023 08:58:04 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[26-Jul-2023 08:27:53 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[31-Jul-2023 00:58:06 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[31-Jul-2023 00:58:06 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[31-Jul-2023 00:58:06 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[02-Aug-2023 09:08:05 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[04-Aug-2023 08:11:30 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[06-Aug-2023 16:55:15 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[09-Aug-2023 18:43:00 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 18:43:00 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 18:43:00 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 18:43:00 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 18:43:00 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 18:43:00 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 18:43:00 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 18:46:35 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 18:46:35 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 20:12:36 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 20:12:36 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 20:12:36 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 20:20:13 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Aug-2023 20:23:55 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[06-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[07-Sep-2023 07:55:46 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[11-Sep-2023 17:44:27 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[25-Sep-2023 07:29:50 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[27-Sep-2023 02:08:05 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[27-Sep-2023 02:08:05 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[29-Sep-2023 00:59:56 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[29-Sep-2023 00:59:57 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados
+[29-Sep-2023 13:42:19 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 03:29:12 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 03:29:12 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 03:29:12 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 03:29:12 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 03:29:12 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 03:29:12 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 03:29:12 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 03:29:12 UTC] PHP Warning:  Undefined property: stdClass::$lang in /home/u544891346/domains/redacaocomgamificacao.com.br/public_html/lib/weblib.php on line 2239
+[09-Oct-2023 20:33:39 America/Sao_Paulo] Exception ignored in shutdown function tool_log\log\manager::dispose: Erro ao ler a base de dados

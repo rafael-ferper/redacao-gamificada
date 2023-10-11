@@ -1,0 +1,64 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    User item reset.
+
+    Used to reset individual items in a user's stash.
+}}
+
+<button class="btn btn-secondary pull-right mb-1" data-additem data-courseid="{{courseid}}" data-userid="{{userid}}" data-sesskey="{{sesskey}}">Add item</button>
+<table class="table table-striped" >
+    {{#userstash}}
+        <tr>
+            {{#item}}
+                <form action="item_reset.php" method="POST">
+                    <td scope="col">
+                        {{>block_stash/user_item}} {{item.name}}
+                    </td>
+                    <td>
+                        <input type="number" name="quantity" value="{{useritem.quantity}}" min="1" size="5"></input>
+                        <input type="hidden" name="courseid" value="{{courseid}}" />
+                        <input type="hidden" name="userid" value="{{userid}}" />
+                        <input type="hidden" name="itemid" value="{{item.id}}" />
+                        <input type="hidden" name="sesskey" value="{{sesskey}}" />
+                    </td>
+                    <td scope="col">
+                        <button class="btn btn-secondary" type="submit">{{#pix}}e/save, core, {{#str}}savequantity, block_stash, {{item.name}} {{/str}}{{/pix}}</button>
+                        <a href="item_reset.php?itemid={{item.id}}&userid={{useritem.userid}}&courseid={{courseid}}&sesskey={{sesskey}}" class="btn btn-secondary">{{#pix}}t/delete, core, {{#str}}deleteuseritem, block_stash, {{item.name}} {{/str}}{{/pix}}</a>
+                    </td>
+                </form>
+            {{/item}}
+        </tr>
+    {{/userstash}}
+</table>
+{{#js}}
+require([
+    'jquery',
+    'block_stash/item-selector-dialogue'
+], function($, ItemSelect) {
+
+$("[data-additem]").click(function(e) {
+    var targetnode = e.currentTarget;
+    var userid = e.currentTarget.getAttribute('data-userid');
+    var courseid = e.currentTarget.getAttribute('data-courseid');
+    var sesskey = e.currentTarget.getAttribute('data-sesskey');
+    var dialogue = new ItemSelect(userid, courseid, sesskey, '');
+    dialogue.show(e);
+});
+
+});
+{{/js}}
